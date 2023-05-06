@@ -13,7 +13,7 @@ The technologies I master are:
 <img align="left" alt = "C++" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style = "padding-right:11px;" /> <img align="left" alt = "C" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style = "padding-right:11px;" /> <img align="left" alt = "Rust" width = "40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg#gh-dark-mode-only" style = "padding-right:11px;" /> <img align="left" alt = "Java" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style = "padding-right:11px;" /> <img align="left" alt = "C#" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style = "padding-right:11px;" /> <img align="left" alt = "Python" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style = "padding-right:11px;" /> <img align="left" alt = "Javascript" width = "40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style = "padding-right:11px;" /> <img align="left" alt = "React" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style = "padding-right:11px;" /> <img align="left" alt = "AWS" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style = "padding-right:11px;" /> <img align="left" alt = "Docker" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style = "padding-right:11px;" />. 
   
     
-    You can find me on:
+You can find me on:
   
   
 
