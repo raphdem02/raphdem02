@@ -17,9 +17,9 @@ The technologies I master are:
   
 You can find me on:
 
-- [Linkedin(@RaphaelDemare)](https://www.linkedin.com/in/raphael-demare/)
+- [Linkedin (@RaphaelDemare)](https://www.linkedin.com/in/raphael-demare/)
 - [GitHub (@raphdem02)](https://github.com/raphdem02)
-- <a href="mailto:raph.Demare@gmail.com">Mail (raph.Demare@gmail.com)</a>
+- <a href="mailto:raph.Demare@gmail.com">Mail (raph.Demare@gmail.com) </a>
 
   
   
