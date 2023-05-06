@@ -8,8 +8,10 @@ Currently I am the president and head of avionics of LéoFly (a student rocket a
  I am also the co-founder of @SIMAKT, an early stage startup developing cyber tools.
 
 
-The technologies I master are:
-[<img align="left" alt = "C++" width = "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style = "padding-right:11px;" />]
+The technologies I master are:  
+<img align="left" alt = "C++" width = "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style = "padding-right:11px;" />
+
+
           
 
 <!--
