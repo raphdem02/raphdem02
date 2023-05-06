@@ -19,7 +19,7 @@ You can find me on:
 
 - [Linkedin(@RaphaelDemare)](https://www.linkedin.com/in/raphael-demare/)
 - [GitHub (@raphdem02)](https://github.com/raphdem02)
-- [Mail]<a href="mailto:raph.Demare@gmail.com"></a>
+- [Mail]<a href="mailto:raph.Demare@gmail.com">Mail</a>
 
   
   
