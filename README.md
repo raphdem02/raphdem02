@@ -16,7 +16,7 @@ The technologies I master are:
   
   
   
-![GHstats](https://github-readme-stats.vercel.app/api?username=raphdem02&show_icons=true)
+<!-- ![GHstats](https://github-readme-stats.vercel.app/api?username=raphdem02&show_icons=true) -->
 
 
           
