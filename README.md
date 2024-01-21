@@ -1,6 +1,6 @@
 ### Hi, I'm [Raphael](https://www.linkedin.com/in/raphael-demare/)
 
-I am a french student in computer science with a passion for coding since more than 7 years.
+I am a french student in quantitative finance with a passion for coding since more than 7 years.
 
 Currently I am the president and head of avionics of LéoFly (a student rocket association, ranked 3rd in flight performance at the largest competition in Europe #EuRoc)
 
